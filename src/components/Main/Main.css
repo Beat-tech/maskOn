@@ -1,0 +1,19 @@
+/*
+ * Main css File
+*/
+
+.main {
+  background-color: white;
+}
+iframe {
+  position: absolute;
+  top: 25vh;
+  left: 8vw;
+}
+
+#img {
+  position: absolute;
+  top: 27vh;
+  right: 15vw;
+  width: 400px;
+}

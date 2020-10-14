@@ -1,0 +1,15 @@
+/*
+ * Header css File
+*/
+
+.header {
+  width: 100vw;
+  height: 8vh;
+  background-color: rgb(190, 78, 78);
+  position: absolute;
+  margin-top: 0;
+}
+h1 {
+  color: white;
+  size: 500px;
+}

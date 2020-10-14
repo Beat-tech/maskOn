@@ -1,0 +1,11 @@
+/*
+ * Footer css File
+*/
+
+.footer {
+  background-color: rgb(190, 78, 78);
+  width: 100vw;
+  height: 7vh;
+  position: absolute;
+  bottom: 0;
+}
